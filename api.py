@@ -67,7 +67,7 @@ def main():
     plt.xlabel('Repo Type')
     plt.ylabel('Repo Size')
     plt.title('Avg Repo size for diff langauges')
-    plt.display()
+    plt.show()
 
 if __name__ == "__main__":
     main()
