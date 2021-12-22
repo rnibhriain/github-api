@@ -1,8 +1,7 @@
 # Github Metric Visualisation
 
 ## Setup 
-- Ensure Python 3.8.5 is installed
-- Ensure jupyter-notebook 6.1.4 is installed
+- Install Anaconda which will install both python and Jupyter Notebook : https://www.anaconda.com/products/individual#windows
 - Clone this repository
 - Install the requirements using command pip install -r requirements.txt
 - Run all the cells in the notebook
