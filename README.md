@@ -1,7 +1,12 @@
 # Github Metric Visualisation
 
 ## Setup 
-- ** TO DO **
+- Ensure Python 3.8.5 is installed
+- Ensure jupyter-notebook 6.1.4 is installed
+- Clone this repository
+- Install the requirements using command pip install -r requirements.txt
+- Run all the cells in the notebook
+- Go to link http://127.0.0.1:8050/
 
 ## Some of the Analysis
 
