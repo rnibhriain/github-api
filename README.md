@@ -1,5 +1,7 @@
 # Github Metric Visualisation
 
+Final Assignment for module: CSU33012
+
 ## Setup 
 - Install Anaconda which will install both python and Jupyter Notebook : https://docs.anaconda.com/anaconda/install/index.html
 - Clone this repository
