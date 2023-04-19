@@ -14,16 +14,16 @@ Final Assignment for module: CSU33012
 
 ### Commits to Repo per Language
 
-![Snip1](https://user-images.githubusercontent.com/78806345/147279568-18d9e423-eb8a-4de5-bd06-e380a9e546f2.PNG)
+![image](https://user-images.githubusercontent.com/78806345/233180716-3196e8d0-b413-4c6b-8376-0a52b17d55f9.png)
 
 ### Size of Repo per Language
 
-![Snip2](https://user-images.githubusercontent.com/78806345/147279607-3d5279ac-1539-43a2-94c9-352dbe383441.PNG)
+![image](https://user-images.githubusercontent.com/78806345/233180939-6bfe490f-e93f-4aa2-b1dd-75b834bfdde3.png)
 
 ### Commits vs Size per Language
 
-![Snip3](https://user-images.githubusercontent.com/78806345/147279662-bad4c430-09bf-4f59-bb83-ff957bfabc52.PNG)
+![image](https://user-images.githubusercontent.com/78806345/233181104-88b46bee-13be-43f7-9dda-b17f95bdc32a.png)
 
 ### Hours of Productivity
 
-![Snip4](https://user-images.githubusercontent.com/78806345/147279678-ce1308bf-e7e5-48b7-a53c-4d206bb940b8.PNG)
+![image](https://user-images.githubusercontent.com/78806345/233181197-166b125e-dc7c-4065-ba2e-79bcf417a842.png)
